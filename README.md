@@ -15,4 +15,3 @@
 
 > Currently only supports Double, String and Int.
 > Casting the values is recommended!
-# soapify
